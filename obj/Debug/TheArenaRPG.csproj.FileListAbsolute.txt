@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\bin\Debug\TheArenaRPG.exe.config
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\bin\Debug\TheArenaRPG.exe
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\bin\Debug\TheArenaRPG.pdb
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\obj\Debug\TheArenaRPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\obj\Debug\TheArenaRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\obj\Debug\TheArenaRPG.exe
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\obj\Debug\TheArenaRPG.pdb
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\TheArenaRPG\obj\Debug\TheArenaRPG.exe.config
